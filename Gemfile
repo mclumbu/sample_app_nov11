@@ -21,6 +21,10 @@ group :test do
   gem 'spork', '0.9.0.rc8'
   gem 'factory_girl_rails', '1.0'
   gem 'spork', '0.9.0.rc8'
+  
+  gem 'autotest', '4.4.6'
+  gem 'autotest-rails-pure', '4.1.2'
+  gem 'autotest-growl', '0.2.16'
 end
 # Use unicorn as the web server
 # gem 'unicorn'
